@@ -19,6 +19,7 @@ public class Boletin23 {
         //Ejercicio2 e2= new Ejercicio2();
         //Ejercicio3 e3= new Ejercicio3();
         //Ejercicio4 e4 = new Ejercicio4();
+        //No sabia que el ejercicio 5 era el boletin 24 
         Ejercicio5 e5 = new Ejercicio5();
     }
 
