@@ -16,7 +16,7 @@ import javax.swing.*;
 public class Ejercicio3 implements ActionListener {
     
     JFrame marco;
-    JPanel panel, hidden;
+    JPanel panel;
     JButton bSaudo, bDesp;
     JLabel et;
     
